@@ -15,8 +15,6 @@
 <a href="https://www.linkedin.com/in/soumyadeepsaha2106">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=soumyadeepSaha&label=PROFILE+VIEWS&color=39D353&style=for-the-badge" alt="Profile views"/>
-
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:123524,100:39D353&height=3&section=header" width="100%" alt="Green divider"/>
