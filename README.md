@@ -5,14 +5,14 @@
 
 ### `Backend Engineer` · `Systems Thinker` · `Builder`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=39D353&center=true&vCenter=true&width=720&lines=Designing+reliable+backend+systems;Go+%7C+Node.js+%7C+PostgreSQL;APIs+%7C+Distributed+Systems;Building+things+that+scale;Build.+Measure.+Improve." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=39D353&center=true&vCenter=true&width=720&lines=Designing+reliable+backend+systems;Go+%7C+Node.js+%7C+PostgreSQL;APIs+%7C+Distributed+Systems;Building+things+that+scale;Build.+Measure.+Improve." alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://github.com/soumyadeepSaha">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/soumyadeepsaha2106">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=soumyadeepSaha&style=for-the-badge&color=39D353" alt="Profile views"/>
@@ -70,25 +70,37 @@ MISSION    : Build. Measure. Improve.
 
 <div align="center">
 
-<a href="https://github.com/soumyadeepSaha?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Repositories-39D353?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+<a href="https://github.com/soumyadeepSaha/ragnosticAI">
+  <img src="https://img.shields.io/badge/RagnosticAI-AI_Project-39D353?style=for-the-badge&logo=openai&logoColor=white" alt="RagnosticAI"/>
+</a>
+
+<a href="https://github.com/soumyadeepSaha/mereestate">
+  <img src="https://img.shields.io/badge/MereEstate-Real_Estate-39D353?style=for-the-badge&logo=homeassistant&logoColor=white" alt="MereEstate"/>
+</a>
+
+<a href="https://github.com/soumyadeepSaha/AspireNex">
+  <img src="https://img.shields.io/badge/AspireNex-Portfolio_&_Startup_Board-39D353?style=for-the-badge&logo=github&logoColor=white" alt="AspireNex"/>
 </a>
 
 </div>
 
-> Replace these examples with your actual projects and repository links.
+### 🤖 RagnosticAI
 
-- **🚀 Project One — Backend Service**
-  - REST APIs, authentication, validation, and database integration.
-  - `Go / Node.js` · `PostgreSQL` · `Docker`
+An AI-focused project showcasing my interest in building intelligent applications.
 
-- **⚙️ Project Two — System Design**
-  - Caching, rate limiting, concurrency, or message queues.
-  - `Redis` · `APIs` · `Testing`
+[**Explore RagnosticAI →**](https://github.com/soumyadeepSaha/ragnosticAI)
 
-- **🛠️ Project Three — Developer Tool**
-  - A practical project demonstrating clean architecture and maintainable code.
-  - `Your Stack` · `CI/CD` · `Documentation`
+### 🏡 MereEstate
+
+A real-estate project focused on property-related experiences and solutions.
+
+[**Explore MereEstate →**](https://github.com/soumyadeepSaha/mereestate)
+
+### 🚀 AspireNex
+
+A project featuring portfolio development and a startup board, including the BizLog application.
+
+[**Explore AspireNex →**](https://github.com/soumyadeepSaha/AspireNex)
 
 ## `contribution_activity`
 
@@ -116,8 +128,9 @@ MISSION    : Build. Measure. Improve.
 <a href="https://github.com/soumyadeepSaha">
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+<a href="https://www.linkedin.com/in/soumyadeepsaha2106">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
