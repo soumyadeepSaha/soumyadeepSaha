@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/soumyadeepsaha2106">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=soumyadeepSaha&style=for-the-badge&color=39D353" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=soumyadeepSaha&label=PROFILE+VIEWS&color=39D353&style=for-the-badge" alt="Profile views"/>
 
 <br/><br/>
 
