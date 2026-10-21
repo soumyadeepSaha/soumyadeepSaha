@@ -138,5 +138,6 @@ A project featuring portfolio development and a startup board, including the Biz
 ### `while(alive) { learn(); build(); improve(); }`
 
 <i>Building with intent. Learning every day. Shipping better software.</i>
+<i> Jod or Wot.
 
 </div>
