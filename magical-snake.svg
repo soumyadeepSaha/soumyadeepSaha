@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title desc">
+  <title id="title">Magical wandering serpent</title>
+  <desc id="desc">An emerald serpent glides along an enchanted path with glowing magical particles.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07110f"/>
+      <stop offset=".52" stop-color="#101126"/>
+      <stop offset="1" stop-color="#071a18"/>
+    </linearGradient>
+    <linearGradient id="serpent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b6b43"/>
+      <stop offset=".5" stop-color="#5dffad"/>
+      <stop offset="1" stop-color="#baffd7"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <path id="route" d="M -30 150 C 80 20, 145 25, 215 115 S 335 210, 420 105 S 565 10, 640 105 S 780 210, 860 100 S 960 30, 1030 125"/>
+    <pattern id="stars" width="100" height="80" patternUnits="userSpaceOnUse">
+      <circle cx="13" cy="15" r="1" fill="#baffd7" opacity=".55"/>
+      <circle cx="68" cy="55" r=".8" fill="#d9c7ff" opacity=".55"/>
+      <path d="M39 24v8 M35 28h8" stroke="#8fffc3" stroke-width="1" opacity=".35"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="220" rx="16" fill="url(#night)"/>
+  <rect width="1000" height="220" rx="16" fill="url(#stars)"/>
+  <ellipse cx="500" cy="110" rx="430" ry="65" fill="#00ff9d" opacity=".06" filter="url(#softGlow)"/>
+  <text x="26" y="34" fill="#baffd7" font-family="Georgia,serif" font-size="13" letter-spacing="4" opacity=".85">THE ENCHANTED PATH</text>
+  <text x="974" y="34" fill="#c9b6ff" font-family="monospace" font-size="11" text-anchor="end" opacity=".8">MAGIC IN MOTION ✦</text>
+  <use href="#route" fill="none" stroke="#1c5b45" stroke-width="12" opacity=".35"/>
+  <use href="#route" fill="none" stroke="#1c5b45" stroke-width="3" opacity=".8"/>
+  <use href="#route" fill="none" stroke="url(#serpent)" stroke-width="5" stroke-linecap="round" stroke-dasharray="22 980" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="7s" repeatCount="indefinite"/>
+  </use>
+  <use href="#route" fill="none" stroke="#aaffd0" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 1000" opacity=".9">
+    <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="7s" repeatCount="indefinite"/>
+  </use>
+  <g filter="url(#glow)">
+    <g>
+      <animateMotion dur="7s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+      <ellipse cx="0" cy="0" rx="15" ry="10" fill="#1cae70" stroke="#aaffd0" stroke-width="1.5"/>
+      <path d="M7 -6 Q19 -8 22 0 Q18 8 7 6Z" fill="#53f5a1"/>
+      <circle cx="9" cy="-3" r="2.2" fill="#f6ffb0"/>
+      <circle cx="9" cy="-3" r="1" fill="#102b20"/>
+      <path d="M20 1 l9 3 M20 3 l8 6" stroke="#e7fff2" stroke-width="1.2" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g fill="#baffd7" filter="url(#glow)">
+    <circle r="2.5"><animateMotion dur="5.2s" begin="-1s" repeatCount="indefinite"><mpath href="#route"/></animateMotion><animate attributeName="opacity" values=".15;1;.15" dur="1.4s" repeatCount="indefinite"/></circle>
+    <circle r="1.8"><animateMotion dur="6.1s" begin="-3s" repeatCount="indefinite"><mpath href="#route"/></animateMotion><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle r="2"><animateMotion dur="4.8s" begin="-2.4s" repeatCount="indefinite"><mpath href="#route"/></animateMotion><animate attributeName="opacity" values=".1;.9;.1" dur="1.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#c9b6ff" opacity=".85">
+    <path d="M155 165 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3Z"><animate attributeName="opacity" values=".25;1;.25" dur="2.2s" repeatCount="indefinite"/></path>
+    <path d="M735 55 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2Z"><animate attributeName="opacity" values="1;.25;1" dur="1.7s" repeatCount="indefinite"/></path>
+    <path d="M900 175 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2Z"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></path>
+  </g>
+  <text x="26" y="198" fill="#7ba996" font-family="monospace" font-size="10" letter-spacing="2">SILENTLY SLITHERING THROUGH THE CODE</text>
+  <text x="974" y="198" fill="#7ba996" font-family="monospace" font-size="10" text-anchor="end">✦ SLYTHERIN ENERGY ✦</text>
+</svg>
