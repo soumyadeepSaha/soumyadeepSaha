@@ -23,8 +23,8 @@
 ## `whoami`
 
 ```text
-Role       : Backend Engineer
-Focus      : APIs, databases, distributed systems, system design
+Role       : Backend Heavy Fullstack Engineer
+Focus      : APIs, databases, distributed systems, system design, AI
 Mindset    : Reliability first. Keep learning. Ship thoughtfully.
 Currently  : Building useful things and sharpening engineering fundamentals
 ```
@@ -77,8 +77,9 @@ Currently  : Building useful things and sharpening engineering fundamentals
 - 🌐 Distributed Systems
 - 🗄️ Database Internals
 - ☁️ Cloud-Native Engineering
+- 🤖 AI/ML
 
-> “It does not do to dwell on dreams and forget to build.”
+> “It does not do to dwell on dreams and forget to build Jod.”
 
 ## `connect`
 
