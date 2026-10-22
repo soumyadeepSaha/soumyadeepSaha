@@ -1,143 +1,94 @@
-
 <div align="center">
 
-# ⚡ Hey, I'm Soumyadeep Saha
+# `> Hello, World!` 👋
 
-### `Backend Engineer` · `Systems Thinker` · `Builder`
+### Backend Engineer · Systems Thinker · Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=39D353&center=true&vCenter=true&width=720&lines=Designing+reliable+backend+systems;Go+%7C+Node.js+%7C+PostgreSQL;APIs+%7C+Distributed+Systems;Building+things+that+scale;Build.+Measure.+Improve." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=39D353&center=true&vCenter=true&width=720&lines=Designing+reliable+backend+systems;Go+%7C+Node.js+%7C+PostgreSQL;APIs+%7C+Distributed+Systems+%7C+System+Design;Build.+Measure.+Improve." alt="Typing introduction" />
 
 <br/>
 
-<a href="https://github.com/soumyadeepSaha">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/soumyadeepsaha2106">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:123524,100:39D353&height=3&section=header" width="100%" alt="Green divider"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumyadeepSaha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeepsaha2106)
 
 </div>
+
+<!-- Magical wandering snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumyadeepSaha/soumyadeepSaha/main/magical-snake.svg" alt="Animated emerald magical snake wandering through an enchanted path" width="100%" />
+</p>
+
+---
 
 ## `whoami`
 
 ```text
-NAME       : Soumyadeep Saha
-ROLE       : Backend Engineer
-FOCUS      : APIs, Databases, Distributed Systems
-MINDSET    : Reliability First. Always Learning.
-MISSION    : Build. Measure. Improve.
+Role       : Backend Engineer
+Focus      : APIs, databases, distributed systems, system design
+Mindset    : Reliability first. Keep learning. Ship thoughtfully.
+Currently  : Building useful things and sharpening engineering fundamentals
 ```
 
-- 🔧 Building backend services that are reliable, observable, and maintainable.
-- 🧠 Exploring system design, data structures, databases, and performance.
-- ⚡ Interested in scalable APIs, caching, concurrency, and distributed architectures.
-- 🚀 Turning complex problems into simple, well-tested solutions.
-- 🌱 Constantly learning, experimenting, and improving.
+- 🔧 I enjoy building backend services that are **reliable, observable, and maintainable**.
+- 🧠 Interested in **system design, data structures, databases, and performance**.
+- 🚀 I like turning complex problems into simple, well-tested solutions.
+- 🌱 Always learning, building, and improving.
 
 ## `tech_stack`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,express,postgres,mongodb,redis,docker,linux,git,github&theme=dark" alt="Backend technology stack"/>
-</p>
-
-<p align="center">
-  <i>Designing APIs. Optimizing queries. Building reliable services.</i>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,express,postgres,mongodb,redis,docker,linux,git,github&theme=dark" alt="Backend technology stack" />
 </p>
 
 ## `github_stats`
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soumyadeepSaha&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeepSaha&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most-used languages" />
+</div>
 
-<a href="https://github.com/soumyadeepSaha">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soumyadeepSaha&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/soumyadeepSaha">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeepSaha&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most-used programming languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=soumyadeepSaha&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=soumyadeepSaha&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 ## `featured_projects`
 
-<div align="center">
+- **[RagnosticAI](https://github.com/soumyadeepSaha/ragnosticAI)** — AI-focused project exploring LLM applications and intelligent solutions.  
+  `Go` · `Node.js` · `AI/LLM` · `PostgreSQL`
 
-<a href="https://github.com/soumyadeepSaha/ragnosticAI">
-  <img src="https://img.shields.io/badge/RagnosticAI-AI_Project-39D353?style=for-the-badge&logo=openai&logoColor=white" alt="RagnosticAI"/>
-</a>
+- **[MereEstate](https://github.com/soumyadeepSaha/mereestate)** — Real-estate platform focused on property discovery and modern user experiences.  
+  `Node.js` · `PostgreSQL` · `Docker` · `APIs`
 
-<a href="https://github.com/soumyadeepSaha/mereestate">
-  <img src="https://img.shields.io/badge/MereEstate-Real_Estate-39D353?style=for-the-badge&logo=homeassistant&logoColor=white" alt="MereEstate"/>
-</a>
-
-<a href="https://github.com/soumyadeepSaha/AspireNex">
-  <img src="https://img.shields.io/badge/AspireNex-Portfolio_&_Startup_Board-39D353?style=for-the-badge&logo=github&logoColor=white" alt="AspireNex"/>
-</a>
-
-</div>
-
-### 🤖 RagnosticAI
-
-An AI-focused project showcasing my interest in building intelligent applications.
-
-[**Explore RagnosticAI →**](https://github.com/soumyadeepSaha/ragnosticAI)
-
-### 🏡 MereEstate
-
-A real-estate project focused on property-related experiences and solutions.
-
-[**Explore MereEstate →**](https://github.com/soumyadeepSaha/mereestate)
-
-### 🚀 AspireNex
-
-A project featuring portfolio development and a startup board, including the BizLog application.
-
-[**Explore AspireNex →**](https://github.com/soumyadeepSaha/AspireNex)
+- **[AspireNex](https://github.com/soumyadeepSaha/AspireNex)** — Portfolio and startup board with developer-focused tools.  
+  `TypeScript` · `Next.js` · `Docker`
 
 ## `contribution_activity`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/soumyadeepSaha/soumyadeepSaha/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+<!-- Generated by .github/workflows/snake.yml and published to the output branch. -->
+<img src="https://raw.githubusercontent.com/soumyadeepSaha/soumyadeepSaha/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
 
 </div>
 
 ## `currently_exploring`
 
-<div align="center">
+- 🏗️ System Design
+- 🌐 Distributed Systems
+- 🗄️ Database Internals
+- ☁️ Cloud-Native Engineering
 
-<img src="https://img.shields.io/badge/System_Design-0D1117?style=flat-square&logo=blueprint&logoColor=39D353" alt="System design"/>
-<img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat-square&logo=apachekafka&logoColor=39D353" alt="Distributed systems"/>
-<img src="https://img.shields.io/badge/Database_Internals-0D1117?style=flat-square&logo=postgresql&logoColor=39D353" alt="Database internals"/>
-<img src="https://img.shields.io/badge/Cloud_Native-0D1117?style=flat-square&logo=docker&logoColor=39D353" alt="Cloud native"/>
-
-</div>
+> “It does not do to dwell on dreams and forget to build.”
 
 ## `connect`
 
 <div align="center">
 
-<a href="https://github.com/soumyadeepSaha">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/soumyadeepSaha)
+[![Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumyadeepsaha2106)
 
-<a href="https://www.linkedin.com/in/soumyadeepsaha2106">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<br/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,50:123524,100:0D1117&height=3&section=footer" width="100%" alt="Green footer divider"/>
-
-### `while(alive) { learn(); build(); improve(); }`
-
-<i>Building with intent. Learning every day. Shipping better software.</i>
-<i> Jod or Wot.
+<i>Build with intent. Learn in public. Leave things better than you found them.</i>
 
 </div>
