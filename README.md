@@ -1,6 +1,6 @@
 <div align="center">
 
-# `> Hello, World!` 👋
+# `> Jod Or Wot` 👋
 
 ### Backend Engineer · Systems Thinker · Builder
 
