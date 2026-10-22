@@ -4,7 +4,7 @@
 
 ### Backend Engineer · Systems Thinker · Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=39D353&center=true&vCenter=true&width=720&lines=Designing+reliable+backend+systems;Go+%7C+cpp+%7C+Python+%7C+React.js+%7C+Node.js+%7C+PostgreSQL+%7C+MYSQL+%7C+Redis;APIs+%7C+Distributed+Systems+%7C+System+Design;Build.+Measure.+Improve." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=39D353&center=true&vCenter=true&width=720&lines=Designing+reliable+backend+systems;Go+%7C+cpp+%7C+Python+%7C+React.js+%7C+Node.js+%7C+SQL/NOSQL;APIs+%7C+Distributed+Systems+%7C+System+Design;Build.+Measure.+Improve." alt="Typing introduction" />
 
 <br/>
 
